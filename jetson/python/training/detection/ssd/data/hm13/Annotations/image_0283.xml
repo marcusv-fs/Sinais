@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_arash</folder>
+	<filename>image_0283.jpg</filename>
+	<path>/home/amrl/Desktop/00_arash/image_0283.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dangerous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>402</ymin>
+			<xmax>313</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

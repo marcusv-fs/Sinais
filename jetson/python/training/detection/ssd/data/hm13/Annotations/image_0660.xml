@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_yazdan</folder>
+	<filename>image_0660.jpg</filename>
+	<path>/home/yazdan/Desktop/00_yazdan/image_0660.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corrosive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>280</ymin>
+			<xmax>142</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

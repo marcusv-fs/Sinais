@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_amirreza</folder>
+	<filename>image_0737.jpg</filename>
+	<path>/home/technophyl/Desktop/00_amirreza/image_0737.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>252</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>organic-peroxide</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>117</ymin>
+			<xmax>366</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_misaq</folder>
+	<filename>image_1415.jpg</filename>
+	<path>/home/misaq/00_misaq/image_1415.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-flammable-gas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>170</ymin>
+			<xmax>202</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

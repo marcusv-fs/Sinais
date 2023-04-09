@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_javad</folder>
+	<filename>image_0375.jpg</filename>
+	<path>/home/jeyjey/Desktop/00_javad/image_0375.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-flammable-gas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>460</ymin>
+			<xmax>427</xmax>
+			<ymax>546</ymax>
+		</bndbox>
+	</object>
+</annotation>

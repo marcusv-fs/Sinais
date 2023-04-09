@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_arash</folder>
+	<filename>image_0124.jpg</filename>
+	<path>/home/amrl/Desktop/00_arash/image_0124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flammable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>405</ymin>
+			<xmax>489</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

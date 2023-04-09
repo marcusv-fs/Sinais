@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_yazdan</folder>
+	<filename>image_0588.jpg</filename>
+	<path>/home/yazdan/Desktop/00_yazdan/image_0588.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spontaneously-combustible</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>274</ymin>
+			<xmax>321</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

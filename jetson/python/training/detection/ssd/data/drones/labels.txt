@@ -1,0 +1,3 @@
+small_base
+large_base
+qrcode

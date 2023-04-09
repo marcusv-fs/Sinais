@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_arash</folder>
+	<filename>image_0324.jpg</filename>
+	<path>/home/amrl/Desktop/00_arash/image_0324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>infectious-substance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>164</ymin>
+			<xmax>598</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

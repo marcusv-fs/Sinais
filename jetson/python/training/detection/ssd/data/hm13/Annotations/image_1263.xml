@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_arshia</folder>
+	<filename>image_1263.jpg</filename>
+	<path>/home/amrl/Desktop/00_arshia/image_1263.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inhalation-hazard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>218</ymin>
+			<xmax>423</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

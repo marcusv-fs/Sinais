@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_amirreza</folder>
+	<filename>image_0857.jpg</filename>
+	<path>/home/technophyl/Desktop/00_amirreza/image_0857.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oxygen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>338</ymin>
+			<xmax>335</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

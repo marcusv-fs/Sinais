@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_misaq</folder>
+	<filename>image_1373.jpg</filename>
+	<path>/home/misaq/00_misaq/image_1373.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>749</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>poison</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>415</ymin>
+			<xmax>402</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>

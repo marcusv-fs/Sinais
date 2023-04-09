@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_yazdan</folder>
+	<filename>image_0546.jpg</filename>
+	<path>/home/yazdan/Desktop/00_yazdan/image_0546.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>388</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>explosive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>143</ymin>
+			<xmax>261</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

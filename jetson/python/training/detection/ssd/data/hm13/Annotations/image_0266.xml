@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_arash</folder>
+	<filename>image_0266.jpg</filename>
+	<path>/home/amrl/Desktop/00_arash/image_0266.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>388</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>explosive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>183</ymin>
+			<xmax>224</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_amirreza</folder>
+	<filename>image_0756.jpg</filename>
+	<path>/home/technophyl/Desktop/00_amirreza/image_0756.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>749</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>explosive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>376</ymin>
+			<xmax>504</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_arshia</folder>
+	<filename>image_1058.jpg</filename>
+	<path>/home/amrl/Desktop/00_arshia/image_1058.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>infectious-substance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>108</ymin>
+			<xmax>592</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>

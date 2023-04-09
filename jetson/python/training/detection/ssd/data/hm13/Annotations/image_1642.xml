@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_misaq</folder>
+	<filename>image_1642.jpg</filename>
+	<path>/home/misaq/00_misaq/image_1642.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oxygen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>506</ymin>
+			<xmax>358</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+</annotation>

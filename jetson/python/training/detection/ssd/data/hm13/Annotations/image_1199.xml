@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_arshia</folder>
+	<filename>image_1199.jpg</filename>
+	<path>/home/amrl/Desktop/00_arshia/image_1199.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>562</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flammable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>444</ymin>
+			<xmax>303</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

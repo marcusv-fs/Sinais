@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_amirreza</folder>
+	<filename>image_0836.jpg</filename>
+	<path>/home/technophyl/Desktop/00_amirreza/image_0836.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>infectious-substance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>404</ymin>
+			<xmax>322</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

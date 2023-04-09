@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_misaq</folder>
+	<filename>image_1614.jpg</filename>
+	<path>/home/misaq/00_misaq/image_1614.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>organic-peroxide</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>398</ymin>
+			<xmax>426</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

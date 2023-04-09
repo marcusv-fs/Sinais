@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_yazdan</folder>
+	<filename>image_0422.jpg</filename>
+	<path>/home/yazdan/Desktop/00_yazdan/image_0422.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-flammable-gas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>233</ymin>
+			<xmax>174</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

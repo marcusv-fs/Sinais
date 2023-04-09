@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_javad</folder>
+	<filename>image_1368.jpg</filename>
+	<path>/home/jeyjey/Desktop/00_javad/image_1368.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inhalation-hazard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>409</ymin>
+			<xmax>358</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

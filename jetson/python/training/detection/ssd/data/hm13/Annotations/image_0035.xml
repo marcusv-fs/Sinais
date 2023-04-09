@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_javad</folder>
+	<filename>image_0035.jpg</filename>
+	<path>/home/jeyjey/Desktop/00_javad/image_0035.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oxygen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>244</ymin>
+			<xmax>266</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

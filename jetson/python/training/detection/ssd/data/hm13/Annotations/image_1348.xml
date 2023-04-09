@@ -1,0 +1,26 @@
+<annotation>
+	<folder>00_javad</folder>
+	<filename>image_1348.jpg</filename>
+	<path>/home/jeyjey/Desktop/00_javad/image_1348.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>388</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>explosive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>282</ymin>
+			<xmax>202</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>
