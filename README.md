@@ -17,8 +17,9 @@ Para esse projeto, foi utilizado como base o repositório Jetson Inference. Nele
 Os modelos treinados estão em "Sinais/jetson/python/training/detection/ssd/models/hm13/", sendo a v1 a versão sem augmentation, a v2 com os filtros e transformadas que escolhemos e a v3 augmentation do repositório original do dataset. Caso todas as bibliotecas para rodar no desktop estejam instaladas, basta entrar em uma das pastas (v1, v2, v3) e rodar o arquivo main.py. Ele vai pegar um vídeo e gerar outro como resposta.
 
 ## Filtros e transforamda
-O código dos filtros e das transformadas se encontram nas pastas  
+O código dos filtros e das transformadas se encontram nas pastas:
 Sinais/Est_Filter
+
 Sinais/FFT_Filter 
 
 ## Como treinar?
