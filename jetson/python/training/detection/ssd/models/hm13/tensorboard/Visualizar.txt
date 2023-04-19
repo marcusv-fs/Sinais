@@ -1,2 +1,0 @@
-python3 -m tensorboard.main --logdir=~/Desktop/jetson-inference-new/python/training/detection/ssd/models/hm13/tensorboard
-
