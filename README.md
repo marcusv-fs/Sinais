@@ -13,9 +13,9 @@
   Rodrigo Rocha Moura (rrm2)
 
 ## Como rodar?
-Para esse projeto, foi utilizado como base o repositório Jetson Inference. Nele, existe uma suite de aplicações de Inteligência Artificial voltadas para a os computadores embarcados Jetson. No caso, a rede que utilizamos é a SSD MobileNetV2, para object detection.
+Para esse projeto, foi utilizado como base o repositório Jetson Inference. Nele, existe uma suite de aplicações de Inteligência Artificial voltadas para a os computadores embarcados Jetson. No caso, a rede que utilizamos é a SSD MobileNetV2, para object detection. Infelizmente o repositório ficou grande demais para o Git, então upamos ele no drive.
 
-Link da jetson: <https://drive.google.com/file/d/1lka6pKbZe9D9FSJJBoi7xkpgdfeKczwd/view?usp=share_link>
+Link da jetson (Onde está a rede neural): <https://drive.google.com/file/d/1lka6pKbZe9D9FSJJBoi7xkpgdfeKczwd/view?usp=share_link>
 
 Os modelos treinados estão em "Sinais/jetson/python/training/detection/ssd/models/hm13/", sendo a v1 a versão sem augmentation, a v2 com os filtros e transformadas que escolhemos e a v3 augmentation do repositório original do dataset. Caso todas as bibliotecas para rodar no desktop estejam instaladas, basta entrar em uma das pastas (v1, v2, v3) e rodar o arquivo main.py. Ele vai pegar um vídeo e gerar outro como resposta.
 
