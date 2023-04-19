@@ -20,6 +20,7 @@ Os modelos treinados estão em "Sinais/jetson/python/training/detection/ssd/mode
 O código dos filtros e das transformadas se encontram nas pastas:
 
 Sinais/Est_Filter
+
 Sinais/FFT_Filter 
 
 ## Como treinar?
