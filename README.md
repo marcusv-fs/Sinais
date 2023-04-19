@@ -27,14 +27,18 @@ Sinais/FFT_Filter
 Vá até a pasta "Sinais/jetson/python/training/detection/ssd", execute os seguintes comandos para garantir que tenha as Libs necessárias:
 
 pip install -r requirements.txt
+
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu117 
+
 pip install opencv-python
 
 Após isso, basta executar:
+
 python3 train_ssd.py --dataset-type=voc --data=data/drones --model-dir=models/drones --epochs 120 --resume="path/to/checkpoint.pth"
 
 ## Dataset
 O dataset está na pasta:
+
 Sinais/jetson/python/training/detection/ssd/data/hm13
 
 ## Dúvidas
