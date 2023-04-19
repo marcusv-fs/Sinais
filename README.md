@@ -1,15 +1,15 @@
 # Sinais
-Projeto de Sinais e Sistemas (ES413)
+## Projeto de Sinais e Sistemas (ES413)
 
-Detecção de rótulos de risco
+### Detecção de rótulos de risco
 
-Alunos: 
-  Jeferson Severino de Araujo
+### Alunos: 
+  Jeferson Severino de Araujo (jsa2)
   
-  Lucas Nascimento Brandão
+  Lucas Nascimento Brandão (lnb)
   
-  Marcus Vinicius de Faria Santos
+  Marcus Vinicius de Faria Santos (mvfs)
   
-  Matheus Julio Boncsidai de Oliveira
+  Matheus Julio Boncsidai de Oliveira (mjbo)
   
-  Rodrigo Rocha Moura
+  Rodrigo Rocha Moura (rrm2)
