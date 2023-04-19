@@ -1,7 +1,5 @@
 # Sinais
-## Projeto de Sinais e Sistemas (ES413)
-
-### Detecção de rótulos de risco
+## Projeto de Sinais e Sistemas (ES413) - Detecção de rótulos de risco
 
 ### Alunos: 
   Jeferson Severino de Araujo (jsa2)
